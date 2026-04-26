@@ -1,6 +1,6 @@
 ## Disease Outbreak Prediction using Machine Learning
 
-**Thesis project — MSc Data Science & AI**
+**Thesis project for MSc Data Science & AI**
 
 ### Problem
 Predicting malaria and dengue outbreaks using integrated 
